@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomasz</h1>
-<h3 align="center">I love programming in JavaScript. I would like to become a Frontend Developer in the future. I live in Poznań, Poland</h3>
+<h3 align="center">I love programming in JavaScript<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> . I would like to become a Frontend Developer in the future. I live in Poznań, Poland</h3>
 
 - 🔭 I’m currently working on **on portfolio projects**
 
